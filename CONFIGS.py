@@ -2,6 +2,7 @@ ZONE_PLAN_MINI = (-240, -240)  # Coin inférieur gauche de la zone d'affichage d
 ZONE_PLAN_MAXI = (50, 200)  # Coin supérieur droit de la zone d'affichage du plan
 POINT_AFFICHAGE_ANNONCES = (-240, 240)  # Point d'origine de l'affichage des annonces
 POINT_AFFICHAGE_INVENTAIRE = (70, 210)  # Point d'origine de l'affichage de l'inventaire
+NOMBRE_DE_LIGNES = 27
 
 # Les valeurs ci-dessous définissent les couleurs des cases du plan
 COULEUR_CASES = 'white'
